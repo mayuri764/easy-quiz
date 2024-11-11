@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/easy-quiz/static/css/main.51eb28df.css",
+    "main.js": "/easy-quiz/static/js/main.fea9e780.js",
+    "static/js/453.62a54d1f.chunk.js": "/easy-quiz/static/js/453.62a54d1f.chunk.js",
+    "index.html": "/easy-quiz/index.html",
+    "main.51eb28df.css.map": "/easy-quiz/static/css/main.51eb28df.css.map",
+    "main.fea9e780.js.map": "/easy-quiz/static/js/main.fea9e780.js.map",
+    "453.62a54d1f.chunk.js.map": "/easy-quiz/static/js/453.62a54d1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51eb28df.css",
+    "static/js/main.fea9e780.js"
+  ]
+}
